@@ -1,0 +1,1 @@
+SELECT * FROM `golden-hook-418312.demo_dbt_bigquery.inscritos `
